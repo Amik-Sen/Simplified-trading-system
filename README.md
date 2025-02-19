@@ -65,7 +65,7 @@ Resource:
 #### Key Concept:
 - Socket programming with multicast or broadcast techniques.
 
-## Logger/Persistence Module (Optional, OS + IPC):
+## Logger/Persistence Module (OS + IPC):
 
 #### Function:
 - Asynchronously log orders and trades for audit purposes.
